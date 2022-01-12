@@ -9,9 +9,7 @@
 - 🥅 2022 Goals: Expand my knowledge
 - ⚡ Fun fact: I love play football
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src=https://www.instagram.com/nizzy00_/" />][instagram]
 
 <br />
 
