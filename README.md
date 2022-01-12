@@ -1,4 +1,4 @@
-### Hi there, I'm @soudqinizar
+### Hi there, I'm soudqinizar
 
 
 
