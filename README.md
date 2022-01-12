@@ -1,6 +1,5 @@
 ### Hi there, I'm @soudqinizar
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 
 ## I'm a Student
@@ -10,6 +9,9 @@
 - 🥅 2022 Goals: Expand my knowledge
 - ⚡ Fun fact: I love play football
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src=https://www.instagram.com/nizzy00_/" />][instagram]
 
 <br />
 
@@ -31,19 +33,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 
 
