@@ -39,3 +39,19 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<br/>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYhduLhYJKwYBBAHaRw8BAQdAP6UDwztRdDIVnjshWFDw7LRfwmVhajEEqWTu
+SPDyuh20HU5pemFyIDxzb3VkcWluaXphckBnbWFpbC5jb20+iJoEExYKAEIWIQRr
+yGkQdCrqqk3fPB1kUNTDS1T4ggUCYhduLgIbAwUJA8JeAgULCQgHAgMiAgEGFQoJ
+CAsCBBYCAwECHgcCF4AACgkQZFDUw0tU+IK7uwEA9juNoJuQJaKL7movOeoNreu9
+wGIA05/S1QmvOMu4NSEA+wcYsSOi0IcJ2dS/dhLd58Vp/TgDcPGeNcRgaIxqHxQB
+uDgEYhduLhIKKwYBBAGXVQEFAQEHQEO6fzmnUQ/Ih5ZFbJHcHW3KNdYEx00gBUfS
+3qxNEeJvAwEIB4h+BBgWCgAmFiEEa8hpEHQq6qpN3zwdZFDUw0tU+IIFAmIXbi4C
+GwwFCQPCXgIACgkQZFDUw0tU+IJH1AD9HTV9cqaCvMCVwE4fuDU8toIDZA18GFtr
+qXdc1Chf8EsA/3tEK9JitIGyLClceViNPjYmbp8u6gm1QuODBNKqexIJ
+=l/c+
+-----END PGP PUBLIC KEY BLOCK-----
